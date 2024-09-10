@@ -14,16 +14,14 @@ This project contains a Selenium test script written in Java to verify the integ
 
 ### 1. Clone the Repository
 
-git clone <repository-url>
-cd qa-integration-test
+git clone https://github.com/vinay-aj/AccuKnox-assesment.git
+cd assesment
 
 ### 2. mvn clean install
 
 ### 3. mvn test
 
 ### 4. **Run the Test**
-
-Once everything is set up, follow the steps in the README to execute the test script.
 
 1. Start Minikube and deploy the frontend and backend services.
 2. Get the URL of the frontend service using `minikube service frontend-service --url`.
@@ -32,5 +30,5 @@ Once everything is set up, follow the steps in the README to execute the test sc
 
 ---
 
-This Selenium script will help you verify that the frontend displays the message returned by the backend correctly. Let me know if you have any questions!
+This Selenium script will help you verify that the frontend displays the message returned by the backend correctly.
 
