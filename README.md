@@ -15,13 +15,10 @@ This project contains a Selenium test script written in Java to verify the integ
 ### 1. Clone the Repository
 
 git clone https://github.com/vinay-aj/AccuKnox-assesment.git
-cd assesment
 
 ### 2. mvn clean install
 
-### 3. mvn test
-
-### 4. **Run the Test**
+### 3. **Run the Test**
 
 1. Start Minikube and deploy the frontend and backend services.
 2. Get the URL of the frontend service using `minikube service frontend-service --url`.
