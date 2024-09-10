@@ -7,7 +7,7 @@ This project contains a Selenium test script written in Java to verify the integ
 - Java 8 or later
 - Maven
 - Chrome Browser (or another browser, update the script accordingly)
-- WebDriver for Chrome
+- WebDriver for Chrome (Download the appropriate WebDriver for your browser and update driver.exe in driver folder)
 - Minikube running the frontend and backend services
 
 ## Setup Instructions
